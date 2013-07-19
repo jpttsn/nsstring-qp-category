@@ -1,11 +1,3 @@
-//
-//  NSString+StringWithQuotedPrintableString.m
-//  SimpleMessage
-//
-//  Created by Joel Pettersson on 2013-07-19.
-//  Copyright (c) 2013 jopt. All rights reserved.
-//
-
 #import "NSString+StringWithQuotedPrintableString.h"
 
 @implementation NSString (StringWithQuotedPrintableString)
